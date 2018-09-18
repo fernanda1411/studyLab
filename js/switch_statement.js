@@ -27,6 +27,7 @@ switch(randomNumber) {
   case 7:
     eightBall = 'Signs point to yes';
   break;
-    console.log('The user asked: ' + userQuestion);
-    console.log('The eight ball answered: ' +eightBall);
 }
+
+console.log('The user asked: ' + userQuestion);
+console.log('The eight ball answered: ' +eightBall);
